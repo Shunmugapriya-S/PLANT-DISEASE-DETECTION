@@ -42,12 +42,20 @@ Disease-based remedies and treatment tips
 
 SMS & Voice call notifications 
 ## TECHNICAL STACK 
-# Python
-# Streamlit 
-# pysttx3
-# twilio api
-# tensorflow
-# keras
-# gtts
-# playsound
-# numpy
+Python
+
+Streamlit 
+
+pysttx3
+
+twilio api
+ 
+tensorflow
+ 
+keras
+
+gtts
+
+playsound
+ 
+numpy
